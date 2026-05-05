@@ -1,0 +1,97 @@
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+     font-family: "Noto Serif", serif;
+}
+.conteiner1{
+    width: 100%;
+    height: 70px;
+    background-color:  #FBF9F4;
+}
+.asist1{
+    padding: 10px 18px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: 17px;
+        color: rgb(39, 39, 39);
+}
+.a1{
+    color: black;
+    width: 30px;
+    border-bottom: 1px solid black;
+}
+.text1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.icon1{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+.flex1{
+    display: flex;
+    gap: 190px;
+    justify-content: space-around;
+    align-items: center;
+}
+.conteiner2{
+    background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBlMSm7XWro0kOQQLjpd_oC2iL-X2pkL94Og5L6zzxVO8gX1o_6Nxspc5YzrWcLLlVb2QrViUMy7l8CzzwMPc58atFFhmqP7ZRYxqAJ3r-_gbEZ9rVub3u-lh-nu-Ft-O9u8qbgELnBDXluEvs9dCXKs5WgwBp8Q0-M05J0wLzMeS58CdiAtFMcIVy_EaGoA1OOtertJ5Tg2IM08o2faK0faTMN7MqPomvOwE9ajpTg37UDtO3FhAbQvs_58RZsXkvqpwzQEVsoqQGU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    width: 100%;
+    height: 840px;
+}
+.asist2{
+    padding: 70px 150px;
+}
+.text2{
+    margin-top: 200px;
+    color: white;
+    font-size: 20px;
+}
+.text3{
+    color: white;
+    font-size: 70px;
+    margin-top: 10px;
+}
+.btn1{
+    color: white;
+    background-color: black;
+    padding: 7px 10px;
+    border: none;
+    font-size: 20px;
+}
+.conteiner3{
+    width: 100%;
+    height: 900px;
+}
+.asist3{
+    padding: 70px 150px;
+}
+.text4{
+    font-size: 50px;
+}
+.flex2{
+    display: flex;
+
+    margin-top: 30px;
+}
+.text5{
+    margin-left: 150px;
+    color: #4C4546;
+    font-size: 20px;
+    line-height: 30px;
+}
+.img1{
+    margin-top: 250px;
+    margin-left: 150px;
+}
