@@ -50,99 +50,208 @@ a {
 .asist2 {
   padding: 70px 150px;
 }
-.text2{
-    font-size: 60px;
+.text2 {
+  font-size: 60px;
 }
-.text3{
-    font-size: 20px;
-    color: #434546;
-    line-height: 30px;
-    margin-top: 30px;
+.text3 {
+  font-size: 20px;
+  color: #434546;
+  line-height: 30px;
+  margin-top: 30px;
 }
-.conteiner3{
+.conteiner3 {
   background-color: #fbf9f4;
   width: 100%;
   height: 1500px;
 }
-.asist3{
+.asist3 {
   padding: 70px 150px;
 }
-.text4{
+.text4 {
   margin-top: 5px;
   font-size: 15px;
   color: #434546;
   letter-spacing: 3px;
 }
-.text5{
+.text5 {
   margin-top: 10px;
   font-size: 30px;
 }
-.text6{
+.text6 {
   font-size: 15px;
   color: #434546;
   margin-top: 10px;
 }
-.text7{
+.text7 {
   margin-top: 20px;
   text-decoration: underline;
 }
-.flex3{
+.flex3 {
   display: flex;
   gap: 40px;
   justify-content: space-evenly;
 }
-.text8{
+.text8 {
   font-size: 32px;
   margin-top: 13px;
 }
-.text9{
+.text9 {
   font-size: 13px;
   color: #434546;
   margin-top: 10px;
   letter-spacing: 3px;
 }
-.conteiner4{
+.conteiner4 {
   width: 100%;
   height: auto;
   background-color: #fbf9f4;
 }
-.asist4{
+.asist4 {
   padding: 70px 150px;
 }
-.text101{
+.text101 {
   font-size: 35px;
   margin-top: 10px;
 }
-.flex4{
+.flex4 {
   display: flex;
   justify-content: space-around;
 }
-.conteiner6{
+.conteiner6 {
+  width: 100%;
+  height: 450px;
+  background-color: #f0eee9;
+}
+.asist6 {
+  padding: 80px 60px;
+}
+.text10 {
+  font-size: 50px;
+}
+.text11 {
+  margin-top: 30px;
+  font-size: 20px;
+  color: #4c4546;
+  line-height: 30px;
+}
+.text12 {
+  font-size: 23px;
+  letter-spacing: 2px;
+}
+.flex5 {
+  justify-content: space-around;
+  display: flex;
+}
+.text13 {
+  margin-top: 30px;
+  line-height: 40px;
+}
+@media (max-width: 640px) {
+  .conteiner1 {
+    height: auto;
+  }
+
+  .flex1 {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .icon1 {
+    width: 22px;
+    height: 22px;
+  }
+
+  .text1 {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .asist1 {
+    padding: 10px;
+  }
+
+  .conteiner2 {
+    height: auto;
+  }
+
+  .asist2 {
+    padding: 30px 15px;
+  }
+
+  .text2 {
+    font-size: 32px;
+  }
+
+  .text3 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .conteiner3 {
+    height: auto;
+  }
+
+  .asist3 {
+    padding: 30px 15px;
+  }
+
+  .flex3 {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .text4 {
+    font-size: 12px;
+  }
+
+  .text5 {
+    font-size: 22px;
+  }
+
+  .text6 {
+    font-size: 14px;
+  }
+
+  .text7 {
+    font-size: 14px;
+  }
+
+  .text8 {
+    font-size: 24px;
+  }
+
+  .conteiner4 {
+    height: auto;
+  }
+
+  .asist4 {
+    padding: 30px 15px;
+  }
+
+  .flex4 {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .conteiner6 {
+    height: auto;
+  }
+
+  .flex5 {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .asist6 {
+    padding: 30px 15px;
+  }
+  .none2 {
     width: 100%;
-    height: 450px;
-    background-color: #F0EEE9;
-}
-.asist6{
-    padding: 80px 60px;
-}
-.text10{
-    font-size: 50px;
-}
-.text11{
-    margin-top: 30px;
-    font-size: 20px;
-    color: #4C4546;
-    line-height: 30px;
-}
-.text12{
-    font-size: 23px;
-    letter-spacing: 2px;
-}
-.flex5{
-    justify-content: space-around;
-    display: flex;
-}
-.text13{
-    margin-top: 30px;
-    line-height: 40px;
+  }
 }
