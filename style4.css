@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
     margin: 0;
@@ -43,109 +43,71 @@ a{
     align-items: center;
 }
 .conteiner2{
-    background-color: #FBF9F4;
     width: 100%;
-    height: 900px;
+    height: 800px;
+    background-color: #FBF9F4;
 }
 .asist2{
-    padding: 70px 90px;
-}
-.img1{
-    margin-top: 20px;
+    padding: 70px 150px;
 }
 .text2{
-    color: #775A19;
+    font-size: 13px;
+    text-align: center;
+    color: #775a19;
+}
+.text3{
+    font-size: 60px;
+    text-align: center;
+}
+.text4{
+    text-align: center;
+    color: #4c4546;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.text5{
+    font-size: 13px;
+    color: #4c4546;
+    margin-top: 100px;
 }
 .flex2{
     display: flex;
-    gap: 100px;
-}
-.flex3{
-    display: flex;
-    gap: 60px;
-}
-.text3{
-    font-size: 50px;
-    margin-top: 20px;
-}
-.text4{
-    font-size: 30px;
-    margin-top: 10px;
-    color: #4c4546;
-}
-.text5{
-    font-size: 20px;
-    line-height: 30px;
-    margin-top: 60px;
-    color: #4c4546;
+    margin-top: 50px;
+    gap: 90px;
 }
 .text6{
-    margin-top: 30px;
-    font-size: 20px;
+    font-size: 50px;
 }
-.img3{
-    margin: 0px 10px;
-}
-.btn1{
+.text7{
+    color: #4c4546;
+    font-size: 16px;
     margin-top: 30px;
-    border: none;
+}
+.btn2{
     color: white;
     background-color: black;
-    font-weight: 600;
-    padding: 10px 169px;
+    padding: 10px 40px;
+    border: none;
+    margin-top: 40px;
 }
 .conteiner3{
-    background-color: #FBF9F4;
     width: 100%;
-    height: 1070px;
-} 
+    height: 1900px;
+    background-color: #FBF9F4;
+}
 .asist3{
     padding: 70px 150px;
 }
-.text7{
-    font-size: 40px;
+.btn3{
+    color: black;
+    background-color: inherit;
+    padding: 10px 40px;
+    border: 1px solid black;
+    margin-top: 40px;
 }
-.text8{
+.flex3{
     display: flex;
-    gap: 10px;
-    color: #4c4546;
-}
-.knop2{
-    margin-top: 30px;
-    width: 350px;
-    height: 150px;
-    background-color: #F5F3EE;
-    padding: 33px;
-}
-.text9{
-    margin-left: 210px;
-    font-size: 13px;
-}
-.text101{
-    font-size: 17px;
-    color: #4c4546;
-    margin-top: 30px;
-}
-.flex4{
-    display: flex;
-    justify-content: space-between;
-}
-.text111{
-    margin-top: 50px;
-    font-size: 40px;
-}
-.text121{
-    font-size: 13px;
-    color: #4c4546;
-}
-.text131{
-    margin-top: 6px;
-    font-size: 23px;
-    color: #4c4546;
-}
-.flex50{
-    display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .conteiner6{
     width: 100%;
