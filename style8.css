@@ -116,6 +116,11 @@ a {
   line-height: 40px;
 }
 @media (max-width: 640px) {
+   *{
+    transform: none;
+    transition: none;
+    animation: none;
+  }
   .conteiner1 {
     height: auto;
   }
